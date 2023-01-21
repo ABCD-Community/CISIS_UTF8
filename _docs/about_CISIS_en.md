@@ -79,24 +79,35 @@
   
   **VII. Versions that I have used not by my doctor (about Mortality; nothing to do with databases)**
 
+ 
   ```
-  $LIND/mx what
+   $LIND/mx what
    CISIS Interface v5.7e/G/PC/W/L/M/32767/16/60/I/64bits - Utility MX
    CISIS Interface v5.7e/.iy0/Z/GIZ/DEC/ISI/UTL/INVX/B7/FAT/CIP/CGI/MX/W
-   Copyright (c) BIREME/PAHO 2010. http://reddes.bvsalud.org/projects/cisis
-  $LINDG4/mx what
+   Copyright (c)BIREME/PAHO 2010. http://reddes.bvsalud.org/projects/cisis
+  ```
+
+  ```
+   $LINDG4/mx what
    CISIS Interface v5.7e/G/PC/512G/W/L4/M/32767/16/60/I/64bits - Utility MX
    CISIS Interface v5.7e/.iy0/Z/GIZ/DEC/ISI/UTL/INVX/B7/FAT/CIP/CGI/MX/W
-   Copyright (c) BIREME/PAHO 2010. http://reddes.bvsalud.org/projects/cisis
-  $FFI/mx what
+   Copyright (c)BIREME/PAHO 2010. http://reddes.bvsalud.org/projects/cisis
+  ```
+
+  ```
+   $FFI/mx what
    CISIS Interface v5.7e/G/PC/W/F/L/M/1048576/16/60/I/64bits - Utility MX
    CISIS Interface v5.7e/.iy0/Z/GIZ/DEC/ISI/UTL/INVX/B7/FAT/CIP/CGI/MX/W
-   Copyright (c) BIREME/PAHO 2010. http://reddes.bvsalud.org/projects/cisis
-  $FFIG4/mx what
+   Copyright (c)BIREME/PAHO 2010. http://reddes.bvsalud.org/projects/cisis
+  ```
+
+  ```
+   $FFIG4/mx what
    CISIS Interface v5.7e/G/PC/512G/W/F/L4/M/1048576/16/60/I/64bits - Utility MX
    CISIS Interface v5.7e/.iy0/Z/GIZ/DEC/ISI/UTL/INVX/B7/FAT/CIP/CGI/MX/W
-   Copyright (c) BIREME/PAHO 2010. http://reddes.bvsalud.org/projects/cisis
+   Copyright (c)BIREME/PAHO 2010. http://reddes.bvsalud.org/projects/cisis
   ```
+
 
   ## Indexing
 
